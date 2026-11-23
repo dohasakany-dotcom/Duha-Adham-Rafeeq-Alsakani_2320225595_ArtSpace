@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="artwork_counter">1/6</string>
+    <string name="artwork_title">Artwork Title</string>
+    <string name="artist_info">Artist Name - Year</string>
+</resources>
